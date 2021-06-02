@@ -7,34 +7,34 @@ dist: focal
 jobs:
   include:
     - arch: amd64
+      env: JOB=1
     - arch: ppc64le
+      env: JOB=2
     - arch: s390x
+      env: JOB=4
     - arch: arm64
+      env: JOB=4
     - arch: amd64
+      env: JOB=5
     - arch: ppc64le
+      env: JOB=6
     - arch: s390x
+      env: JOB=7
     - arch: arm64
+      env: JOB=8
     - arch: amd64
+      env: JOB=9
     - arch: ppc64le
+      env: JOB=10
     - arch: s390x
+      env: JOB=11
     - arch: arm64
+      env: JOB=12
     - arch: amd64
+      env: JOB=13
     - arch: ppc64le
+      env: JOB=14
     - arch: s390x
+      env: JOB=15
     - arch: arm64
-    - arch: amd64
-    - arch: ppc64le
-    - arch: s390x
-    - arch: arm64
-    - arch: amd64
-    - arch: ppc64le
-    - arch: s390x
-    - arch: arm64
-    - arch: amd64
-    - arch: ppc64le
-    - arch: s390x
-    - arch: arm64
-    - arch: amd64
-    - arch: ppc64le
-    - arch: s390x
-    - arch: arm64
+      env: JOB=16
