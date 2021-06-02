@@ -38,3 +38,59 @@ jobs:
       env: JOB=15
     - arch: arm64
       env: JOB=16
+    - arch: amd64
+      env: JOB=13
+    - arch: ppc64le
+      env: JOB=14
+    - arch: s390x
+      env: JOB=15
+    - arch: arm64
+      env: JOB=16
+    - arch: amd64
+      env: JOB=17
+    - arch: ppc64le
+      env: JOB=18
+    - arch: s390x
+      env: JOB=19
+    - arch: arm64
+      env: JOB=20
+    - arch: amd64
+      env: JOB=21
+    - arch: ppc64le
+      env: JOB=22
+    - arch: s390x
+      env: JOB=23
+    - arch: arm64
+      env: JOB=24
+    - arch: amd64
+      env: JOB=25
+    - arch: ppc64le
+      env: JOB=26
+    - arch: s390x
+      env: JOB=27
+    - arch: arm64
+      env: JOB=28
+    - arch: amd64
+      env: JOB=29
+    - arch: ppc64le
+      env: JOB=30
+    - arch: s390x
+      env: JOB=31
+    - arch: arm64
+      env: JOB=32
+    - arch: amd64
+      env: JOB=33
+    - arch: ppc64le
+      env: JOB=34
+    - arch: s390x
+      env: JOB=35
+    - arch: arm64
+      env: JOB=36
+    - arch: amd64
+      env: JOB=37
+    - arch: ppc64le
+      env: JOB=38
+    - arch: s390x
+      env: JOB=39
+    - arch: arm64
+      env: JOB=40
